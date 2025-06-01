@@ -1,3 +1,2 @@
 clone=true
 Variable=123
-additional=value
