@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="792cdce6-c976-418c-bc68-8b998c22cbf4" name="Changes" comment="&quot;Azeez.txt additional value&quot;">
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/src/main/java/PropertiesFolder/revertExample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PropertiesFolder/revertExample.txt" afterDir="false" />
-=======
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
->>>>>>> parent of f5c543f (revert changes)
+      <change beforePath="$PROJECT_DIR$/src/main/java/PropertiesFolder/revertExample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PropertiesFolder/revertExample.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,32 +51,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Authorization.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Authorization_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BugTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ComplexJsonParse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EcommerceEndToEnd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sec4_Examp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sec5Examp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sec9Example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SerializeTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.mainExe.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sec6Examp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.validation.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.untitled.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TestNG.DynamicJsonPayload.addBook.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.DynamicJsonPayload.jsondataCheck.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Sec7Example.addBook.executor&quot;: &quot;Debug&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/azeez/IdeaProjects/untitled&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.smartKeys&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Authorization.executor": "Run",
+    "Application.Authorization_1.executor": "Run",
+    "Application.BugTest.executor": "Run",
+    "Application.ComplexJsonParse.executor": "Run",
+    "Application.EcommerceEndToEnd.executor": "Run",
+    "Application.Sec4_Examp.executor": "Run",
+    "Application.Sec5Examp.executor": "Run",
+    "Application.Sec9Example.executor": "Run",
+    "Application.SerializeTest.executor": "Run",
+    "Application.mainExe.executor": "Run",
+    "Application.sec6Examp.executor": "Run",
+    "Application.validation.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.untitled.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.DynamicJsonPayload.addBook.executor": "Run",
+    "TestNG.DynamicJsonPayload.jsondataCheck.executor": "Run",
+    "TestNG.Sec7Example.addBook.executor": "Debug",
+    "git-widget-placeholder": "Reverting in master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/azeez/IdeaProjects/untitled",
+    "settings.editor.selected.configurable": "editor.preferences.smartKeys"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="pojo" />
