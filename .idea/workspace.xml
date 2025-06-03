@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="792cdce6-c976-418c-bc68-8b998c22cbf4" name="Changes" comment="&quot;Azeez.txt additional value&quot;" />
+    <list default="true" id="792cdce6-c976-418c-bc68-8b998c22cbf4" name="Changes" comment="&quot;Azeez.txt additional value&quot;">
+      <change beforePath="$PROJECT_DIR$/src/main/java/PropertiesFolder/revertExample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PropertiesFolder/revertExample.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

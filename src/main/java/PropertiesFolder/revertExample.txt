@@ -1,2 +1,4 @@
 Example1=value1
 Example2=value2
+Example3=value3
+Example4=value4
